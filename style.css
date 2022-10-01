@@ -208,3 +208,8 @@ h4 {
  filter: opacity(25%);
  background-color: red;
 }
+
+img {
+ filter: brightness(100%);
+ width: 150px;
+} 
