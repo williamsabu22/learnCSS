@@ -558,3 +558,22 @@ img {
  margin: 5px;
 }
 
+body {
+ text-align: center;
+}
+
+.pricing {
+ border: 2px solid indigo;
+ padding: 10px;
+}
+
+.header {
+ font-size: 30px;
+ background-color: indigo;
+ color: white;
+ margin: 0px;
+}
+
+.price {
+ font-size: 25px;
+}
