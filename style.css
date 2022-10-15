@@ -577,3 +577,22 @@ body {
 .price {
  font-size: 25px;
 }
+
+.first {
+  flex: 1 1 auto;
+}
+
+.second {
+  flex: 0 0 100px;
+}
+
+.item {
+  background-color: #bfdaf9;
+  margin: 1px;
+}
+
+.container {
+  border: solid 3px #bfdaf9;
+  display: flex;
+  width: 300px;
+}
