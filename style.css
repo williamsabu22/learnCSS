@@ -596,3 +596,24 @@ body {
   display: flex;
   width: 300px;
 }
+
+.sections {
+  padding: 10px;
+}
+
+.content {
+  background-color: #FBF4F0;
+}
+
+.menu {
+  background-color: #D9E8FB;
+}
+
+a {
+  display: inline-block;
+  padding: 5px;
+}
+
+h3 {
+  text-align: center;
+}
