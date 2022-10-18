@@ -645,3 +645,15 @@ h3 {
 h3 {
   text-align: center;
 }
+
+.grid-container {
+ background-color: #E0F6FF;
+ border: 1px dashed #1E96FF;
+}
+
+.grid-item {
+ background-color: #1E96FF;
+ color: #ffffff;
+ text-align: center;
+ margin: 2px;
+}
