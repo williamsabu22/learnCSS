@@ -721,3 +721,21 @@ h3 {
   text-align: center;
   color: #FFFFFF;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 40px 40px 40px 40px 40px 40px 40px;
+}
+
+.grid-item {
+  background-color: #D6EAF8;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #2980B9;
+  margin: 2px;
+}
+
+h2 {
+  color: #2980B9;
+}
