@@ -706,3 +706,18 @@ h3 {
  padding: 20px;
  margin: 5px;
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 5px;
+  background: #E0F6FF;
+  padding: 5px;
+  justify-items: stretch;
+}
+
+.grid-item {
+  background-color: #1E96FF;
+  padding: 15px;
+  text-align: center;
+  color: #FFFFFF;
+}
